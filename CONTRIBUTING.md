@@ -5,6 +5,7 @@ The following is a set of guidelines for contributing to WolfJobs. We are open t
 ## Table of Contents:
 
 ## How can I contribute?
+
 <ul>
   <li><a href="#section1" >Labels Info</a></li>
   <li><a href="#section2" >Reporting Bugs</a></li>
@@ -14,6 +15,7 @@ The following is a set of guidelines for contributing to WolfJobs. We are open t
 </ul>
 
 ## Labels Info
+
 <h3 id="section1"> Labels Info</h3>
 
 We have created labels for each issue for proper ordering and this will help you select an issue you would like to work on.
@@ -27,14 +29,16 @@ We have created labels for each issue for proper ordering and this will help you
 - The [`tests` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/issues?q=is%3Aissue+is%3Aopen+label%3Atests) Adding missing tests or correcting existing tests
 
 ## How can I contribute?
+
 <h3 id="section2"> Reporting bugs</h3>
 <p>This section guides you through submitting a bug report for SE Group 28. </p>
 
 When you are creating a bug report, please include as many details as possible to understand the issue.
-  
-  <b>How Do I Submit A Bug Report?</b>
-  Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository.
-  Explain the problem and include additional details to help maintainers reproduce the problem:
+
+<b>How Do I Submit A Bug Report?</b>
+Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository.
+Explain the problem and include additional details to help maintainers reproduce the problem:
+
   <ul>
   <li><b>Use a clear and descriptive title</b> for the issue to identify the problem.</li>
   <li><b>Provide specific examples to demonstrate the steps.</b> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.</li>
@@ -43,21 +47,22 @@ When you are creating a bug report, please include as many details as possible t
   </ul>
   
 <h3 id="section3"> Suggesting Enhancements</h3>
-This section guides you through submitting a suggestion for WolfJobs, including completely new features and minor improvements to existing functionality. 
+This section guides you through submitting a suggestion for WolfJobs, including completely new features and minor improvements to existing functionality.
 
-Enhancement suggestions are tracked as GitHub issues. 
+Enhancement suggestions are tracked as GitHub issues.
 After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the information like title, step-by-step description, specific examples.\
-Giving more detailed information will help us understand the suggestion better. 
-#### Provide details like 
-1) What is the enhancement? 
-2) Suggestions to implement the enhancement
+Giving more detailed information will help us understand the suggestion better.
 
+#### Provide details like
+
+1. What is the enhancement?
+2. Suggestions to implement the enhancement
 
 <h3 id="section4"> Pull Requests</h3>
 
-The process described here has several goals: 
+The process described here has several goals:
 
-- Maintain WolfJobs quality 
-- Fix problems that are important to users 
-- Engage the community in working toward the best possible WolfJobs 
+- Maintain WolfJobs quality
+- Fix problems that are important to users
+- Engage the community in working toward the best possible WolfJobs
 - Enable a sustainable system for Atom's maintainers to review contributions
