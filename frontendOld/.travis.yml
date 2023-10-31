@@ -1,0 +1,4 @@
+language: node_js
+python:
+  - '14.17.6'
+script: npm install

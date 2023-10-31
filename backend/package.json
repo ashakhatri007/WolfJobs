@@ -1,0 +1,45 @@
+{
+  "name": "caloriesapp",
+  "version": "1.0.0",
+  "description": "Webapp Calorie Count",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "mocha --recursive --exit"
+  },
+  "keywords": [
+    "Calorie",
+    "webapp"
+  ],
+  "author": "Group 28",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-mongo": "^4.5.0",
+    "connect-mongodb-session": "^3.1.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mockgoose": "^8.0.4",
+    "mongoose": "^6.0.5",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.14",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "eslint": "^8.1.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.26.1",
+    "mocha": "^9.1.2"
+  }
+}
